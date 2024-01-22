@@ -333,11 +333,3 @@ You can also modify the MESSAGE variable to specify the message that you want to
 
 Note that this script is just an example and may not work out of the box. 
 You may need to make additional modifications or perform additional setup in order to use it successfully.'''
-
-
-
-'''
-Instagram token gotten is 
-IGQVJYWDBPYXdjaTNIMExBMUJaRDV3M1ZA5X1JzR1MyeEluLVlPV3lSM3pOaF9SdEJLY056VGE4RlNXNk04cjJSRFhNMnVwNXRwYUhINllFWjlMdUhGWHdicksydWhkQzVucUpXTEZAoMVZAaWkxNSmVpSQZDZD
-
-generated in the 19th april 2023'''
