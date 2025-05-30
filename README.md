@@ -119,6 +119,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Habeeblah A. O. - habeeblahaberejo01@gmail.com
+Habeeblah A. O. [Linkedin](https://www.linkedin.com/in/habeeblah-aberejo-572109179)
 
 Project Link: [https://github.com/bheezpen/Quran247](https://github.com/bheezpen/Quran247)

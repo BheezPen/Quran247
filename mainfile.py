@@ -2,8 +2,8 @@ from PIL import Image, ImageDraw, ImageFont  # Note to install, the module name 
 import textwrap
 import random as rn
 import datetime as ds
-import requests
-import json
+#import requests
+#import json
 
 def get_verse():
     """A Function that will help get the verses from the verse.txt file and convert them into a list datatype"""
