@@ -1,4 +1,114 @@
-## Quran247
-The is a project that create a jpeg with random quran verses.
+# Quran247
 
-Used pip freeze > requirements.txt to generate requirement.txt file in my main location and not virtual environment, so, install only libraries imported into projects. If you find this before i correct that, bear
+![Project Banner](link_to_your_project_banner_image_if_any.png)
+
+## About The Project
+
+Quran247 is an automated Python project designed to generate visually appealing JPEG/PNG images of random Quranic verses. The primary goal is to facilitate daily reminders and reflections by creating shareable content for social media platforms like Instagram. Future enhancements aim to include the Tafsir (exegesis) of the chosen verse, providing deeper understanding alongside the verse itself.
+
+## Features
+
+* **Random Verse Generation:** Automatically selects a random Quranic verse.
+* **Image Overlay:** Renders the selected verse onto a customizable background image.
+* **Social Media Ready Output:** Generates images optimized for sharing on platforms like Instagram.
+* **Verse Identification:** Includes the Surah name and verse number for context (e.g., "QURAN 29: AL-ANKABUT (THE SPIDER), VERSE 61").
+* **Automated Generation:** Designed for potential scheduling and automated posting.
+* **[Planned] Tafsir Inclusion:** Future development will integrate Tafsir for a comprehensive understanding of each verse.
+* **[Planned] Customizable fonts, background images, etc.**
+
+## Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+* Python 3.x (Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/)).
+
+### Installation
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/bheezpen/Quran247.git](https://github.com/bheezpen/Quran247.git)
+    cd Quran247
+    ```
+
+2.  **Create a Virtual Environment:**
+    It's highly recommended to use a virtual environment to manage project dependencies. This isolates the project's dependencies from your system-wide Python packages.
+
+    ```bash
+    python3 -m venv venv
+    ```
+
+3.  **Activate the Virtual Environment:**
+
+    * **On Windows:**
+        ```bash
+        .\venv\Scripts\activate
+        ```
+    * **On macOS/Linux:**
+        ```bash
+        source venv/bin/activate
+        ```
+
+4.  **Install Project Dependencies:**
+    Once your virtual environment is activated, install the required packages using `pip`:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+    If you need to update the `requirements.txt` later, first activate your virtual environment, then run:
+    ```bash
+    pip freeze > requirements.txt
+    ```
+
+### Usage
+
+1.  **Run the main script:**
+    After setting up and installing dependencies, you can run the project:
+
+    ```bash
+    python mainfile.py
+    ```
+    (Or `python mainfile_trying.py` -  when i try out something new)
+
+2.  **Output:**
+    Explain what the script does when run (e.g., "This will generate a JPEG image named `quran_verse.jpeg` (or similar) in the `generated_images` directory.").
+
+    (If there are any command-line arguments or configurations, explain them here.)
+
+## Project Structure
+
+A brief overview of the important files and directories:
+
+* `mainfile.py`: The main script that generates the Quranic verse images.
+* `requirements.txt`: Lists all Python libraries required to run the project.
+* `font/`: Contains font files used for rendering text on images.
+* `generated_images/`: Where the generated JPEG images are saved.
+* `QuranArabic.txt`: Contains Arabic Quranic verses.
+* `en_transliteration.txt`: Contains English transliterations of Quranic verses.
+* `quran_chapters_surah.txt`:  Contains information about Quranic chapters/surahs.
+* `quran_simple_plain.txt`: Another version of Quranic text.
+* `quranverses_eng.txt`: English translations of Quranic verses.
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1.  Fork the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information. (If you don't have a `LICENSE` file, consider adding one. The MIT license is a good open-source choice.)
+
+## Contact
+
+Your Name - your_email@example.com
+Project Link: [https://github.com/bheezpen/Quran247](https://github.com/bheezpen/Quran247)
