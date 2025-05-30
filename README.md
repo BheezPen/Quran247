@@ -106,9 +106,10 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information. (If you don't have a `LICENSE` file, consider adding one. The MIT license is a good open-source choice.)
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - your_email@example.com
+Habeeblah A. O. - habeeblahaberejo01@gmail.com
+
 Project Link: [https://github.com/bheezpen/Quran247](https://github.com/bheezpen/Quran247)
