@@ -275,8 +275,6 @@ def generate_verse_to_image():
 
 generate_verse_to_image()
 
-
-
 #App name i provided to Facebook to get access token is 247Quran
 
 

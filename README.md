@@ -1,6 +1,6 @@
 # Quran247
 
-![Project Banner](link_to_your_project_banner_image_if_any.png)
+![Project Logo](quran247_logo.png)
 
 ## About The Project
 
@@ -85,7 +85,6 @@ To get a local copy up and running, follow these simple steps.
     ```bash
     python mainfile.py
     ```
-    (Or `python mainfile_trying.py` -  when i try out something new and doesn't want to push)
 
 ## Project Structure
 
