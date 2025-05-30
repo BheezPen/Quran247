@@ -267,9 +267,11 @@ def generate_verse_to_image():
     draw_footer_text(image, text4, 30, text4_color, 1000)
     draw_footer_text(image, 'This is AUTOMATED and built By H.A.O. Bheez, @horladipupo', 20, "black", 1040)
     print(len(text2),fontsize) #Comment or Change this afterwards, here for testign purpose only
+    image.save(f'./generated_images/{image_name_generator()}.png')
     image.show(f'./generated_images/{image_name_generator()}.png')
+    print(image_name_generator())
     #image.show()
-    # image.save()
+    
 
 generate_verse_to_image()
 
